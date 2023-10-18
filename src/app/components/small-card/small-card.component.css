@@ -10,8 +10,7 @@
 
 .small-card_photo > img {
     width: 200px;
-    min-width: 180px;
-    min-height: 200px;
+    min-width: 200px;
     margin-right: 20px;
 }
 
